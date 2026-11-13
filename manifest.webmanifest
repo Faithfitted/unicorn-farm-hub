@@ -1,0 +1,24 @@
+{
+  "name": "Unicorn Farm Hub",
+  "short_name": "Farm Hub",
+  "description": "Plan, plant, monitor and grow with Unicorn Farm Hub.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f7f4",
+  "theme_color": "#174b32",
+  "icons": [
+    {
+      "src": "./icons/icon-192.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
